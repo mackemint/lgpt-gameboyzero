@@ -1,6 +1,6 @@
 <CONFIG>
 	<DUMPEVENT value="YES"/>
-	<BACKGROUND value="000000" />
+	<BACKGROUND value="313131" />
 	<FOREGROUND value="ff9900" /> <!-- text and cursor in cursor -->
 	<HICOLOR1 value="ff9900" /> <!-- row count in song screen -->
 	<HICOLOR2 value="cc7a00" /> <!-- cursor-->

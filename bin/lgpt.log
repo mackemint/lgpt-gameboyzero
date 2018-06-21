@@ -1,0 +1,189 @@
+[CONFIG] Got config path=/home/pi/RetroPie/roms/ports/lgpt/bin/config.xml
+[-D-] Audio
+[AUDIO] Audio object initialised with
+[AUDIO] Api:
+[AUDIO] Device:
+[AUDIO] Buffer size:256
+[AUDIO] Pre Buffer Count:2
+[AUDIO] Current API: Linux ALSA
+[AUDIO] Found device hw:C-Media USB Headphone Set,0
+[AUDIO] Found device hw:bcm2835 ALSA,0
+[AUDIO] Found device hw:bcm2835 ALSA,1
+[AUDIO] Selecting: hw:C-Media USB Headphone Set,0
+[CONFIG] Got value for DUMPEVENT=YES
+[DISPLAY] Using driver fbcon. Screen (640,480) Bpp:32
+[DISPLAY] Creating SDL Window (640,480)
+[DISPLAY] Preparing fonts
+[DISPLAY] Preparing font cache
+[CONFIG] Got value for BACKGROUND=313131
+[CONFIG] Got value for FOREGROUND=ff9900
+[DISPLAY] Preparing full font cache
+[MIDI] 2 input port(s)
+[CONFIG] Got value for DUMPEVENT=YES
+[MIDI]  Midi Through:0
+[CONFIG] Got value for DUMPEVENT=YES
+[MIDI]  UM-ONE:0
+[MIDI] 2 output port(s)
+[MIDI]  Midi Through:0
+[MIDI]  UM-ONE:0
+[CONFIG] Got value for BACKGROUND=313131
+[CONFIG] Got value for FOREGROUND=ff9900
+[CONFIG] Got value for HICOLOR1=ff9900
+[CONFIG] Got value for HICOLOR2=cc7a00
+[-D-] Failed to attach /event/up to joy:0:1-
+[-D-] Failed to attach /event/down to joy:0:1+
+[-D-] Failed to attach /event/left to joy:0:0-
+[-D-] Failed to attach /event/right to joy:0:0+
+[-D-] Failed to attach /mixer/volume/increase to but:0:0
+[-D-] Failed to attach /mixer/volume/decrease to but:0:3
+[-D-] Failed to attach /event/a to but:0:1
+[-D-] Failed to attach /event/b to but:0:2
+[-D-] Failed to attach /event/rshoulder to but:0:5
+[-D-] Failed to attach /event/rshoulder to but:0:7
+[-D-] Failed to attach /event/lshoulder to but:0:4
+[-D-] Failed to attach /event/lshoulder to but:0:6
+[-D-] Failed to attach /event/start to but:0:9
+[-D-] Failed to attach /tempo/tap to but:0:8
+[-D-] Mapping config
+[CONFIG] Got value for KEY_A=key:0:x
+[CONFIG] Got value for KEY_B=key:0:z
+[CONFIG] Got value for KEY_LEFT=key:0:left
+[CONFIG] Got value for KEY_RIGHT=key:0:right
+[CONFIG] Got value for KEY_UP=key:0:up
+[CONFIG] Got value for KEY_DOWN=key:0:down
+[CONFIG] Got value for KEY_LSHOULDER=key:0:a
+[CONFIG] Got value for KEY_RSHOULDER=key:0:s
+[CONFIG] Got value for KEY_START=key:0:return
+[MAPPING] Attached /event/a to key:0:x
+[MAPPING] Attached /event/b to key:0:z
+[MAPPING] Attached /event/left to key:0:left
+[MAPPING] Attached /event/right to key:0:right
+[MAPPING] Attached /event/up to key:0:up
+[MAPPING] Attached /event/down to key:0:down
+[MAPPING] Attached /event/lshoulder to key:0:a
+[MAPPING] Attached /event/rshoulder to key:0:s
+[MAPPING] Attached /event/start to key:0:return
+[EVENT] key(down):1
+[EVENT] key(down):0
+[EVENT] key(down):1
+[EVENT] key(down):0
+[EVENT] key(down):1
+[EVENT] key(down):0
+[EVENT] key(down):1
+[EVENT] key(down):0
+[EVENT] key(down):1
+[EVENT] key(down):0
+[EVENT] key(x):1
+[AUDIO] RTAudio device hw:C-Media USB Headphone Set,0 successfully open - buffer=256
+[-D-] Out initialized
+[EVENT] key(x):0
+[EVENT] key(s):1
+[EVENT] key(up):1
+[EVENT] key(right):1
+[EVENT] key(up):0
+[EVENT] key(right):0
+[EVENT] key(s):0
+[EVENT] key(down):1
+[EVENT] key(down):0
+[EVENT] key(down):1
+[EVENT] key(down):0
+[EVENT] key(down):1
+[EVENT] key(down):0
+[EVENT] key(down):1
+[EVENT] key(down):0
+[EVENT] key(down):1
+[EVENT] key(down):0
+[EVENT] key(down):1
+[EVENT] key(down):0
+[EVENT] key(down):1
+[EVENT] key(down):0
+[EVENT] key(down):1
+[EVENT] key(down):0
+[EVENT] key(up):1
+[EVENT] key(up):0
+[EVENT] key(x):1
+[EVENT] key(right):1
+[EVENT] key(right):0
+[EVENT] key(right):1
+[EVENT] key(right):0
+[EVENT] key(x):0
+[EVENT] key(s):1
+[EVENT] key(s):0
+[EVENT] key(x):1
+[EVENT] key(right):1
+[EVENT] key(right):0
+[EVENT] key(down):1
+[EVENT] key(left):1
+[EVENT] key(down):0
+[EVENT] key(left):0
+[EVENT] key(x):0
+[EVENT] key(return):1
+[EVENT] key(return):0
+[EVENT] key(return):1
+[EVENT] key(return):0
+[EVENT] key(s):1
+[EVENT] key(down):1
+[EVENT] key(down):0
+[EVENT] key(s):0
+[EVENT] key(return):1
+[EVENT] key(return):0
+[EVENT] key(return):1
+[EVENT] key(return):0
+[EVENT] key(return):1
+[EVENT] key(return):0
+[EVENT] key(return):1
+[EVENT] key(return):0
+[EVENT] key(s):1
+[EVENT] key(up):1
+[EVENT] key(right):1
+[EVENT] key(right):0
+[EVENT] key(up):0
+[EVENT] key(s):0
+[EVENT] key(x):1
+[EVENT] key(right):1
+[EVENT] key(right):0
+[EVENT] key(x):0
+[EVENT] key(return):1
+[EVENT] key(return):0
+[EVENT] key(return):1
+[EVENT] key(return):0
+[EVENT] key(return):1
+[EVENT] key(return):0
+[EVENT] key(s):1
+[EVENT] key(down):1
+[EVENT] key(down):0
+[EVENT] key(s):0
+[EVENT] key(down):1
+[EVENT] key(down):0
+[EVENT] key(down):1
+[EVENT] key(down):0
+[EVENT] key(down):1
+[EVENT] key(down):0
+[EVENT] key(return):1
+[EVENT] key(return):0
+[EVENT] key(down):1
+[EVENT] key(down):0
+[EVENT] key(return):1
+[EVENT] key(return):0
+[EVENT] key(return):1
+[EVENT] key(return):0
+[EVENT] key(s):1
+[EVENT] key(up):1
+[EVENT] key(right):1
+[EVENT] key(up):0
+[EVENT] key(right):0
+[EVENT] key(s):0
+[EVENT] key(up):1
+[EVENT] key(up):0
+[EVENT] key(x):1
+[EVENT] key(x):0
+[EVENT] key(down):1
+[EVENT] key(down):0
+[EVENT] key(down):1
+[EVENT] key(down):0
+[EVENT] key(x):1
+[EVENT] key(x):0
+[EVENT] key(left):1
+[EVENT] key(left):0
+[EVENT] key(x):1
+[EVENT] SDEM:PostQuitMessage()
